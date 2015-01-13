@@ -1,0 +1,8 @@
+/node_modules/
+.~
+.um~
+_book/
+assets/
+book.json
+package.json
+alldot.dot
