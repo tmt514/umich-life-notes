@@ -1,6 +1,8 @@
 /node_modules/
 .~
 .um~
+.swp
+.swo
 _book/
 assets/
 book.json
