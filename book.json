@@ -2,5 +2,11 @@
     "plugins": [
         "disqus"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "disqus": {
+            "disqus": {
+                "shortName": "umichcoursenotes"
+            }
+        }
+    }
 }
