@@ -4,9 +4,7 @@
     ],
     "pluginsConfig": {
         "disqus": {
-            "disqus": {
-                "shortName": "umichcoursenotes"
-            }
+            "shortName": "umichcoursenotes"
         }
     }
 }
