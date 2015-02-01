@@ -2,7 +2,8 @@
     "plugins": [
         "disqus",
         "mathjax",
-        "exercises"
+        "exercises",
+        "quizzes"
     ],
     "pluginsConfig": {
         "disqus": {
