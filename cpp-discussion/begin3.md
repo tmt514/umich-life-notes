@@ -1,5 +1,7 @@
 # C++與程式邏輯訓練 (3)
 
+<!-- toc -->
+
 ## 6. 遞迴方法
 
 > **Quote** "To iterate is human, to recurse divine." -- L. Peter Deutsch
@@ -66,6 +68,8 @@
 
 #### [ 練習] 河內塔問題
 
+
+## 7 搜索方法
 
 
 
