@@ -1,16 +1,6 @@
 {
     "plugins": [
-        "quizzes",
-        "exercises",
-        "mathjax",
-        "richquotes",
-        "anchors",
-        "reveal",
-        "toc"
-    ]
-    "pluginsConfig": {
-        "disqus": {
-            "shortName": "umichcoursenotes"
-        }  
-    }
+        "disqus"
+    ],
+    "pluginsConfig": {}
 }
