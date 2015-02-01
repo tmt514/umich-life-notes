@@ -3,6 +3,7 @@
 * [C++與程式邏輯訓練系列](cpp-discussion/info.md)
     * [Begin 1](cpp-discussion/begin1.md)
     * [Begin 2](cpp-discussion/begin2.md)
+    * [Begin 3](cpp-discussion/begin3.md)
 * [EECS 575 - Adv Cryptograpy](eecs575/intro.md)
     * Lecture 1 (Missed)
     * [Lecture 2](eecs575/2015-01-12.md)
