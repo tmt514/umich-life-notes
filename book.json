@@ -3,7 +3,8 @@
         "disqus",
         "mathjax",
         "exercises",
-        "quizzes"
+        "quizzes",
+        "anchors"
     ],
     "pluginsConfig": {
         "disqus": {
