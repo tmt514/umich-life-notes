@@ -77,6 +77,7 @@ Q: 什麼是明確的計算步驟？
     }
     ```
     你能不能給出一個比這個方法來得「快」的作法？為什麼快？快在哪裡？
+    提示：使用Bithack，最終版本請參考[這裡](http://stackoverflow.com/questions/109023/how-to-count-the-number-of-set-bits-in-a-32-bit-integer)。
 
 
 
