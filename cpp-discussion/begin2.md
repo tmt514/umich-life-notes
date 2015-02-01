@@ -2,7 +2,9 @@
 
 ## 5. C++ 語法複習
 
-### 變數宣告與計算
+這邊只是很概要地講過我覺得知道一下比較好的東西，所以若需要更全面的語法學習請找參考書～或者是參考網站，例如[這裡](http://openhome.cc/Gossip/CppGossip/)。
+
+### 5.1 變數宣告與計算
 
 #### 宣告一個整數
 ```
@@ -23,29 +25,85 @@ average = (a + b) / 2.0;
 
 Q: 為什麼要宣告變數？
 
-### 條件判斷
-
-#### [CF 4A - 分西瓜問題](http://codeforces.com/problemset/problem/4/A)
+#### [ 練習] [CF 50A - 放置骨牌](http://codeforces.com/problemset/problem/50/A)
 
 下面是一個錯誤的程式碼，請把空白處(或錯誤處)補齊或修正：
 
 ```cpp
 #include <iostream>
+#include <string>
 using namespace std;
 
-int main(void) {
-    int n;
-    cin >> n;
-    
+int solve(int m, int n) {
+
     /* 請在這邊填上你的程式碼 */
-    
-    cout << "NO" << endl; //這個可能是錯誤的
+
+    return 0; //這個可能是錯誤的
+}
+
+int main(void) {
+    int m, n;
+    cin >> m >> n;
+    cout << solve(m, n) << endl;
     return 0;
 }
 ```
 
+### 5.2 條件判斷
 
+簡單來說就是 `if ... else ...` 啦，有誰不會呢？
 
+#### [ 練習] [CF 4A - 分西瓜問題](http://codeforces.com/problemset/problem/4/A)
+
+下面是一個錯誤的程式碼，請把空白處(或錯誤處)補齊或修正：
+
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+
+string solve(int w) {
+
+    /* 請在這邊填上你的程式碼 */
+
+    return "NO"; //這個可能是錯誤的
+}
+
+int main(void) {
+    int w;
+    cin >> w;
+    cout << solve(w) << endl;
+    return 0;
+}
+```
+
+#### 三元運算子
+
+大絕招（好孩子不要學？）
+
+```cpp
+cout << (n == 1 ? "YES" : "NO") << endl;
+        ^^^^^^^   ^^^^^   ^^^^
+        條件判斷   True    False
+```
+
+### 5.3 迴圈
+
+#### For Loops
+
+也沒什麼好說的，就只是 `for (起始條件; 終止條件; 遞增操作) { 迴圈內容 }`
+
+#### While Loops
+
+`while (迴圈條件) { 迴圈內容 }`
+
+#### Do...While
+
+`do { 迴圈內容 } while (繼續條件)`
+
+Visual Basic 會有 Do...Until 這種語句，要非常小心不要混淆...
+
+### 5.4 函式宣告與呼叫
 
 
 
