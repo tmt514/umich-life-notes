@@ -6,7 +6,6 @@
     * [Recursion - Basic](cpp-discussion/begin3.md)
     * [Recursion - Applications: Searching](cpp-discussion/begin4-search.md)
     * [String Manipulation](cpp-discussion/begin5-string-basics.md)
-    * --
     * Other
     * Seven
 * [EECS 575 - Adv Cryptograpy](eecs575/intro.md)
