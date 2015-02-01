@@ -138,8 +138,49 @@ int main(void) {
 }
 ```
 
-### 5.4 函式宣告與呼叫
+> **Danger** 永遠不要用 `goto`。不知道那是什麼的話，最好。
 
+### 5.4 陣列
+
+#### 宣告一個陣列
+```cpp
+int a[100];
+```
+
+#### 宣告一個二維陣列
+```cpp
+int a[100][100];
+```
+
+#### 賦予陣列維度比較有意義的字句
+```cpp
+#define WIDTH 50
+#define HEIGHT 50
+int grid[WIDTH][HEIGHT];
+```
+
+#### Define macros 其實不太好用，用 Const
+```cpp
+const int WIDTH = 50, HEIGHT = 50;
+int grid[WIDTH][HEIGHT];
+```
+
+#### 陣列的初始值
+
+* 如果宣告的是靜態變數，那麼初始值會幫你清成 0。
+* 如果宣告的是動態變數，請設定初始值再使用。
+
+```
+int a[5] = {};        //[0, 0, 0, 0, 0]
+int b[3] = {0, 1, 2}; //[0, 1, 2]
+int c[7] = {1, 2, 3}; //[1, 2, 3, 0, 0, 0, 0]
+```
+
+### 5.5 函式宣告與呼叫
+
+傳值(call by value)、傳址(call by value of pointer)、傳參考(call by reference) 三者是不同的！請參考[這裡](http://wp.mlab.tw/?p=176)。
+
+* Java 世界萬物都是參考。
 
 
 
