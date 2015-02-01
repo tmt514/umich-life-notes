@@ -1,5 +1,7 @@
 # Summary
 
+* C++與程式邏輯訓練系列
+    * [第一次討論 2/7](cpp-discussion/begin1.md)
 * [EECS 575 - Adv Cryptograpy](eecs575/intro.md)
     * Lecture 1 (Missed)
     * [Lecture 2](eecs575/2015-01-12.md)
