@@ -9,3 +9,5 @@
 * String manipulation (30 mins)
 
 ### Try Out Examples
+
+### Resources
