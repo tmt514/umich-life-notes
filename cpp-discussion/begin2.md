@@ -103,6 +103,41 @@ cout << (n == 1 ? "YES" : "NO") << endl;
 
 Visual Basic 會有 Do...Until 這種語句，要非常小心不要混淆...
 
+#### [ 練習] [CF 82A - Double Cola](http://codeforces.com/problemset/problem/82/A)
+
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+
+string solve(int n) {
+    int result = -1;
+
+    /* 請在這邊填上你的程式碼 */
+
+
+    if (result == 0) {
+        return "Sheldon";
+    } else if (result == 1) {
+        return "Leonard";
+    } else if (result == 2) {
+        return "Penny";
+    } else if (result == 3) {
+        return "Rajesh";
+    } else if (result == 4) {
+        return "Howard";
+    }    
+    return "Kakaen"; //這個可能是錯誤的
+}
+
+int main(void) {
+    int n;
+    cin >> n;
+    cout << solve(n) << endl;
+    return 0;
+}
+```
+
 ### 5.4 函式宣告與呼叫
 
 
