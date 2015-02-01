@@ -182,9 +182,13 @@ int c[7] = {1, 2, 3}; //[1, 2, 3, 0, 0, 0, 0]
 
 * Java 世界萬物都是參考。
 
+### 5.6 習題
 
+#### [ 習題 5.6.1] [CF 110A - Nearly Lucky Number](http://codeforces.com/problemset/problem/110/A)
 
+#### [ 習題 5.6.2] (!) [CF 158B - Taxi](http://codeforces.com/problemset/problem/158/B)
 
+#### [ 習題 5.6.3] [CF 459A - Pashmak and Garden](http://codeforces.com/problemset/problem/459/A)
 
 
 
