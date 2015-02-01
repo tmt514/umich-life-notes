@@ -4,7 +4,8 @@
         "mathjax",
         "exercises",
         "quizzes",
-        "richquotes"
+        "richquotes",
+        "toc"
     ],
     "pluginsConfig": {
         "disqus": {
