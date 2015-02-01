@@ -4,7 +4,7 @@
 .swp
 .swo
 _book/
-assets/
-book.json
-package.json
-alldot.dot
+#assets/
+#book.json
+#package.json
+#alldot.dot
