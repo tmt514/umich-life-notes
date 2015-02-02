@@ -13,6 +13,8 @@
 
 ### Resources
 
+* [面試專用：當你在瀏覽器網址列輸入google.com並按下Enter按鍵那一刻起，發生了什麼事情？全解答。](https://github.com/alex/what-happens-when/blob/master/README.rst#the-enter-key-bottoms-out)
+
 ## 第二次討論
 
 ### Topics
