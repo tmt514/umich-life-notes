@@ -72,6 +72,43 @@
 
 #### [ 練習] 河內塔問題
 
+##### 題目敘述
+
+你有一疊 $$n$$ 個圓盤(編號由小到大分別是 $$1, 2, \cdots, n$$)，以及三根柱子 $$A, B, C$$。這些圓盤一開始由小到大排好在 $$A$$ 柱上面，如下圖所示。每一次我們可以將某一根柱子上的最上面圓盤，移動到相鄰的柱子上，但是移動後，仍須保證圓盤在每一根柱子上由小到大排列。請你給出一系列如下面格式的指令：`move disk i from A to B`，使得我們可以將所有圓盤從 $$A$$ 柱搬到 $$C$$ 柱。
+
+![](http://yazilimportal.com/wp-content/uploads/2013/08/Tower.Hanoi_.Cropped.jpg)
+
+##### 程式碼範本
+
+```cpp
+#include <iostream>
+using namespace std;
+
+void hanoi( /* 請定義你想要的參數 parameters */ ) {
+    
+    /* 請在這邊填上遞迴終止條件 */
+    
+    /* 請在這邊寫上你的遞迴關係 */
+    
+    return;
+}
+
+int main(void) {
+    int n;
+    cin >> n;
+    
+    hanoi( /* 請傳入你想要的引數 arguments */ );
+    
+    return 0;
+}
+```
+
+##### 延伸練習
+
+1. [ 習題 6.3.1] [UVa 10017 - The never ending towers of Hanoi](http://uva.onlinejudge.org/external/100/10017.html)
+2. (!)[ 習題 6.3.2] [UVa 254 - Towers of Hanoi](http://uva.onlinejudge.org/external/2/254.html)
+3. (!)[ 習題 6.3.3] [CF 392B - Towers of Hanoi](http://codeforces.com/problemset/problem/392/B)
+
 #### [ 練習] L形鋪磚問題
 
 #### [ 練習] 求最大公因數
