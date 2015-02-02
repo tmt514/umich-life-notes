@@ -111,6 +111,10 @@ int main(void) {
 
 #### [ 練習] L形鋪磚問題
 
+##### 題目敘述
+
+![](http://mathforum.org/wagon/spring98/images/tiles.gif)
+
 #### [ 練習] 求最大公因數
 
 ### 6.4 基本上教科書不會提及的例子
