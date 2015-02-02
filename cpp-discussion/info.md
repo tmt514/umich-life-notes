@@ -6,7 +6,7 @@
 * [Introduction to Problem Solving](begin1.md) (10 mins)
 * [C++ Fast recap](begin2.md) (20 mins)
 * [Recursion - Basics](begin3.md) (30 mins)
-* [Recursion - Application: Searching](begin4-searching.md) (30 mins)
+* [Recursion - Application: Searching](begin4-search.md) (30 mins)
 * [String manipulation](begin5-string-basics.md) (30 mins)
 
 ### List of Examples/Exercises
