@@ -1,6 +1,6 @@
 # C++與程式邏輯訓練
 
-## 第一次討論 (2015-02-07)
+## 第一次討論 (2015-02-14)
 
 ### Topics
 * [Introduction to Problem Solving](begin1.md) (10 mins)
@@ -15,7 +15,10 @@
 
 * [面試專用：當你在瀏覽器網址列輸入google.com並按下Enter按鍵那一刻起，發生了什麼事情？全解答。](https://github.com/alex/what-happens-when/blob/master/README.rst#the-enter-key-bottoms-out)
 
-## 第二次討論
+### Articles
+* [工程師的缺德行為：叫朋友去學C/C++](http://blog.turn.tw/?p=1283)
+
+## 第二次討論 (2015-02-21)
 
 ### Topics
 
