@@ -14,6 +14,7 @@
 ### Resources
 
 * [面試專用：當你在瀏覽器網址列輸入google.com並按下Enter按鍵那一刻起，發生了什麼事情？全解答。](https://github.com/alex/what-happens-when/blob/master/README.rst#the-enter-key-bottoms-out)
+* [Regular Expression 101 測試網站](https://www.regex101.com/)
 
 ### Articles
 * [工程師的缺德行為：叫朋友去學C/C++](http://blog.turn.tw/?p=1283)
