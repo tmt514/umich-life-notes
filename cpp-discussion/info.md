@@ -9,8 +9,6 @@
 * [Recursion - Application: Searching](begin4-search.md) (30 mins)
 * [String manipulation](begin5-string-basics.md) (30 mins)
 
-### List of Examples/Exercises
-
 ### Resources
 
 * [面試專用：當你在瀏覽器網址列輸入google.com並按下Enter按鍵那一刻起，發生了什麼事情？全解答。](https://github.com/alex/what-happens-when/blob/master/README.rst#the-enter-key-bottoms-out)
@@ -18,6 +16,7 @@
 
 ### Articles
 * [工程師的缺德行為：叫朋友去學C/C++](http://blog.turn.tw/?p=1283)
+* [怎樣Coding才能速度快、Bug又少?](http://buzzorange.com/techorange/2015/02/11/less-bug-in-code/)
 
 ## 第二次討論 (2015-02-21)
 
