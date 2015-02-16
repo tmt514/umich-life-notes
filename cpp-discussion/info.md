@@ -25,4 +25,16 @@
 * C++ Fast recap II - Classes, Interfaces (1 hr)
 * Array Applications (30 mins)
 * Algorithm analyzing - Sequence problems (20 mins)
+
+### Resources
+
+* [Linux 檔案系統全解說](http://www.blackmoreops.com/2015/02/14/linux-file-system-hierarchy/)
+
+
+
+
+
+
+
+
 * Greedy Algorithms - Basics (10 mins)
