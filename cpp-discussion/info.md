@@ -30,6 +30,7 @@
 ### Resources
 
 * [Linux 檔案系統全解說](http://www.blackmoreops.com/2015/02/14/linux-file-system-hierarchy/)
+* [I do not know C](http://kukuruku.co/hub/programming/i-do-not-know-c)
 
 
  
