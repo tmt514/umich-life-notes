@@ -4,7 +4,7 @@ Due Date: Before our first meeting.
 
 | Problem List | Related Techniques | Hints / Solutions
 | -- | -- | -- |
-| [♨ 0-1. Typing in speed](algods/lecture0/hw0-1) | | [hints](algods/lecture0/hw0-1-sol.md) |
+| [♨ 0-1. Typing in speed](algods/lecture0/hw0-1.md) | | [hints](algods/lecture0/hw0-1-sol.md) |
 | [✎ 0-2. What's the volume?](algods/lecture0/hw0-2.md) | | [hints](algods/lecture0/hw0-2-sol.md) |
 | [✎ 0-3. What's the volume (II)](algods/lecture0/hw0-3.md) | | [hints](algods/lecture0/hw0-3-sol.md) |
 | [✎ 0-4. Positive or Negative](algods/lecture0/hw0-4.md) | | [hints](algods/lecture0/hw0-4-sol.md) |
