@@ -7,7 +7,7 @@
    * [Recursion - Basic](cpp-discussion/begin3.md)
    * [Recursion - Applications: Searching](cpp-discussion/begin4-search.md)
    * [String Manipulation](cpp-discussion/begin5-string-basics.md)
-* [演算法與資料結構 - 設計與實務](algods/info.md)
+* [演算法與資料結構 - 理論與實作](algods/info.md)
    * [Lecture 0 - 上課之前](algods/lecture0/intro.md)
        * [輸入與輸出](algods/lecture0/io-examples.md)
        * [作業零](algods/lecture0/hw0.md)
