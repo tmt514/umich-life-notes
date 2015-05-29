@@ -12,8 +12,8 @@
 
 ## 學習重點
 
-1. 理解 scanf / printf 用法。
-2. 理解 cin / cout 用法。
+1. 理解並使用 scanf / printf。
+2. 理解並使用 cin / cout。
 
 ## 參考資料
 
