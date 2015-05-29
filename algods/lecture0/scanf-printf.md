@@ -1,9 +1,10 @@
 ## 關於 scanf / printf
 
-基本上只是一個可以接受不同數量參數的 function，若我們上網搜尋這個 function 的原型，它長得像這個樣子：
+基本上只是一個可以接受不同數量參數的 function，若我們上網搜尋這個 function 的原型，它們長得像這個樣子：
 
 ```c++
 int scanf ( const char * format, ... );
+int printf ( const char * format, ... );
 ```
 
 第一個參數要傳入一個__格式字串__，然後後面按照順序傳入每一個變數。有一點點像是「挖洞填空」的輸入方式，根據格式字串之中留下的「洞」從輸入中讀取我們要的資料。
