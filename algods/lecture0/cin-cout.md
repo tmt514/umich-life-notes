@@ -27,6 +27,11 @@ std::cout << std::setprecision(5) << value << std::endl;
 
 在 C++ 裡頭通常會很聰明地幫你判斷要怎麼輸出一個浮點數（可能會用科學記號、或者是僅使用小數點的定點表示法）
 
+### 控制欄寬
+
+在 `<iomanip>` 裡頭也有控制輸出字串和數字最小欄寬的方法，使用方法也與設定浮點數位數類似，在輸出的東西之前寫上 `std::setw()`（還可以利用 `std::setfill()` 設定空白處要用什麼字元填滿），然後
+
+
 ### 省去 std:: 的程式
 
 可以在宣告函式之前宣告命名空間，這麼一來裡面就不需要額外標註 std 這個 namespace 了。
@@ -38,3 +43,9 @@ int main() {
   return 0;
 }
 ```
+
+有的時候很容易撞名，所以若撰寫規模較大的程式，不建議隨意加上 using namespace std; 理由請參考[這幾篇討論](http://stackoverflow.com/questions/1452721/why-is-using-namespace-std-considered-bad-practice)。
+
+### 運算子重載 operator overloading
+
+這樣有個方便之處，就是我們可以自定義一個物件的輸入方式（包含輸入與輸出串流），無論是什麼物件就可以直接用想要的方式輸入/輸出了。
