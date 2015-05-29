@@ -1,2 +1,3 @@
-# 關於 cin / cout
+## 關於 cin / cout
 
+我們可以把要輸入的東西想像排成一條直線，每一次接收一個我們想要的內容。這樣一個概念叫做「串流」(streaming)，C++ 裡頭的 `<iostream>` 預設的 `std::cin` 以及 `std::cout` 便是將常用的
