@@ -14,6 +14,7 @@
 
 1. 理解並使用 scanf / printf。
 2. 理解並使用 cin / cout。
+3. 其他常見的輸出入方式 (gets/ puts/ sscanf/ sprintf/...)
 
 ## 參考資料
 
