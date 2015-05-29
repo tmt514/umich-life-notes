@@ -4,7 +4,7 @@
 
 ## 標準輸入與標準輸出
 
-通常一個程序 (process) 開始執行的時候，作業系統會幫你把鍵盤（視作標準輸入 Standard Input）和螢幕（視作標準輸出 Standard Output）以某些形式連接到你的程序中。在 C 語言裡頭，會以檔案 (File descriptor) 的方式讓你可以存取。若是在 C++ 裡頭則是透過串流 (Standard I/O Streams) 輸入/輸出。
+通常一個程序 (process) 開始執行的時候，作業系統會幫你把鍵盤（視作標準輸入 Standard Input）和螢幕（視作標準輸出 Standard Output）以某些形式連接到你的程序中。在 C 語言裡頭，會以檔案 (File descriptor) 的方式讓你可以存取。若是在 C++ 裡頭則是透過串流 (Standard I/O Streams) 進行輸入/輸出。
 
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Stdstreams-notitle.svg/440px-Stdstreams-notitle.svg.png)
 
