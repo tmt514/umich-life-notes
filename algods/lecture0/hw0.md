@@ -2,8 +2,8 @@
 
 Due Date: Before our first meeting.
 
-| Problem List | Related Techniques | Hints / Solutions
-| -- | -- | -- |
+| Problem List | Problem Link | Hints / Solutions
+| -- | -- | -- | -- |
 | [♨ 0-1. Typing in speed](hw0-1.md) | | [hints](hw0-1-sol.md) |
 | [✎ 0-2. What's the volume?](hw0-2.md) | | [hints](hw0-2-sol.md) |
 | [✎ 0-3. What's the volume (II)](hw0-3.md) | | [hints](hw0-3-sol.md) |
