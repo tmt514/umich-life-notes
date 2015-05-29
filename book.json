@@ -2,7 +2,6 @@
     "plugins": [
         "disqus",
         "exercises",
-        "quizzes",
         "richquotes",
         "toc",
         "katex"
