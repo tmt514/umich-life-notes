@@ -49,3 +49,25 @@ int main() {
 ### 運算子重載 operator overloading
 
 這樣有個方便之處，就是我們可以自定義一個物件的輸入方式（包含輸入與輸出串流），無論是什麼物件就可以直接用想要的方式輸入/輸出了。
+
+舉例而言，我們若有一個叫做平面上座標「點」的類別，我們可以重載它的輸入方式：
+
+```c++
+class Point {
+    public:
+        double x, y;
+        friend istream& operator >> (istream& in, Point& p) {
+            in >> p.x >> p.y;
+            return in;
+        }
+};
+```
+
+這麼一來在輸入的時候就可以直接寫
+
+```
+Point p;
+std::cin >> p;
+```
+
+相當方便！
