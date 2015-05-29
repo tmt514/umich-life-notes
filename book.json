@@ -1,7 +1,6 @@
 {
     "plugins": [
         "disqus",
-        "richquotes",
         "toc",
         "katex"
     ],
