@@ -10,6 +10,8 @@
 * [演算法與資料結構 - 理論與實作](algods/info.md)
    * [Lecture 0 - 上課之前](algods/lecture0/intro.md)
        * [輸入與輸出](algods/lecture0/io-examples.md)
+           * [關於 scanf / printf](algods/lecture0/scanf-printf.md)
+           * [關於 cin / cout](algods/lecture0/cin-cout.md)
        * [作業零](algods/lecture0/hw0.md)
            * [♨ 0-1. Typing in speed](algods/lecture0/hw0-1.md)
            * [✎ 0-2. What's the volume?](algods/lecture0/hw0-2.md)
