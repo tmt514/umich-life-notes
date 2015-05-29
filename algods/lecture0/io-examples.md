@@ -124,7 +124,6 @@ printf("%-10.3f\n", x);
 5.100
 ```
 
-
 ## 參考資料
 
 * [cin 與 scanf 的差異到底在哪裡?](http://www.cplusplus.com/forum/beginner/34165/)
