@@ -29,7 +29,12 @@ std::cout << std::setprecision(5) << value << std::endl;
 
 ### 控制欄寬
 
-在 `<iomanip>` 裡頭也有控制輸出字串和數字最小欄寬的方法，使用方法也與設定浮點數位數類似，在輸出的東西之前寫上 `std::setw()`（還可以利用 `std::setfill()` 設定空白處要用什麼字元填滿），然後
+在 `<iomanip>` 裡頭也有控制輸出字串和數字最小欄寬的方法，使用方法也與設定浮點數位數類似，在輸出的東西之前寫上 `std::setw()`（還可以利用 `std::setfill()` 設定空白處要用什麼字元填滿），然後設定置左或置右（不寫應該是愈設置右）：
+
+```
+std::cout << std::setw(10) << std::left << "Test" << endl;
+std::cout << std::setw(10) << std::right << "Test" << endl;
+```
 
 
 ### 省去 std:: 的程式
