@@ -70,7 +70,7 @@ class Point {
 
 這麼一來在輸入的時候就可以直接寫
 
-```
+```c++
 Point p;
 std::cin >> p;
 ```
