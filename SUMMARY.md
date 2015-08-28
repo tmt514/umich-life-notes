@@ -39,4 +39,5 @@
    * [Lecture 4](eecs492/2015-01-20.md)
 * [MATH 566 - 組合學](math566/intro.md)
    * [Lecture 1](math566/2015-01-07.md)
-
+* [DS](ds/intro.md)
+    * [Lecture 0 - Linked Lists](ds/ds0.md)
