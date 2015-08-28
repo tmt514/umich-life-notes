@@ -11,7 +11,19 @@
 
 ## 0.1 抽象資料結構 Abstract Data Type (ADT)
 
+* 這東西很深很抽象（能吃嗎？）我們只需要最簡單的就可以了。
+* 只定義了介面的 (Functional ADT)
+* 只要定義出一系列的「功能」、「輸入」、「輸出」即可。
+
+舉例來說，如果我們需要一個叫做「列表」(List) 的資料結構，我們可以定義以下幾種操作介面：
+
+* $$Append(S, x)$$：在列表 $$S$$ 末端增加一個元素 $$x$$。
+* $$Insert(S, x, y)$$：在列表 $$S$$ 之中的 $$y$$ 元素**之前**插入 $$x$$，若 $$y$$ 為空則視同 $$Append$$ 操作。
+* $$Remove(S, x)$$：在列表 $$S$$ 刪除 $$x$$ 元素。
+
 ## 0.2 什麼是鏈結串列 (Linked lists)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Singly-linked-list.svg/816px-Singly-linked-list.svg.png)
 
 ## 0.3 鏈結串列與陣列的比較
 
