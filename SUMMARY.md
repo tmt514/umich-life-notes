@@ -1,6 +1,7 @@
 # Summary
 
-* [introduction](README.md)
+* [EECS 583 - Adv Compiler](eecs583/intro.md)
+    * [Lecture 2 - 9/16/2015](eecs583/2.md)
 * [C++與程式邏輯訓練系列](cpp-discussion/info.md)
    * [Introduction to Programming Problem Solving](cpp-discussion/begin1.md)
    * [C++ Fast Recap](cpp-discussion/begin2.md)
