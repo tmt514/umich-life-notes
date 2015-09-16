@@ -13,3 +13,4 @@ umich.edu mail is handled by 0 mx3.umich.edu.
 ```
 
 * DNS (Domain name service)
+* thunderbird
