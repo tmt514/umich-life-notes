@@ -2,6 +2,7 @@
 
 * [EECS 583 - Adv Compiler](eecs583/intro.md)
     * [Lecture 2 - 9/16/2015](eecs583/2.md)
+    * [Lecture 3 - 9/21/2015](eecs583/3.md)
 * [EECS 485 - Web Database & Information System](eecs485/intro.md)
 * [C++與程式邏輯訓練系列](cpp-discussion/info.md)
    * [Introduction to Programming Problem Solving](cpp-discussion/begin1.md)
