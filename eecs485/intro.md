@@ -1,3 +1,12 @@
+
+# 2015-09-23
+
+## Sessions
+
+* Storage
+* HTTP 1.1 TCP Connections <=> TCP Sessions (This is not sessions)
+
+
 # 2015-09-16: TCP/IP
 
 * IP, packet routes
@@ -14,3 +23,4 @@ umich.edu mail is handled by 0 mx3.umich.edu.
 
 * DNS (Domain name service)
 * thunderbird
+
