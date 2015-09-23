@@ -7,7 +7,9 @@
 * HTTP 1.1 TCP Connections <=> TCP Sessions (This is not sessions)
 
 
-# 2015-09-16: TCP/IP
+# 2015-09-16
+
+## TCP/IP
 
 * IP, packet routes
 * traceroute
